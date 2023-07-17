@@ -1,6 +1,3 @@
-
-Certainly! Here's the updated version of the task description with the examples and comments translated into Bengali (Bangla) language:
-
 # House Hunter Platform - কাজের টাস্ক
 
 ## কাজের বিবরণ
