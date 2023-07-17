@@ -6,7 +6,8 @@
 
 ### 1. User Registration
 
-- [x] Create a registration form where users provide their full name, role (House Owner or House Renter), phone number, email, and password.
+<!-- [x] Create a registration form where users provide their full name, role (House Owner or House Renter), phone number, email, and password. -->
+- [ ] Create a registration form where users provide their full name, role (House Owner or House Renter), phone number, email, and password.
 - [ ] Store the registered user information in the database and ensure there are no duplicate users.
 - [ ] Implement custom authentication using JWT (JSON Web Tokens) and MongoDB for user registration and login. Do not use any authentication service providers like Firebase.
 
